@@ -1,6 +1,10 @@
 p{
   color: grey;
   font-family: Comic Sans MS;
+  width: 300px;
+  height: 100px;
+  border-style: groove;
+  border-color: orange;
 }
 h1{
   color: white;
