@@ -12,7 +12,8 @@ h1{
 }
 body{
   background-image: url(http://www.hdwallpapers.in/walls/abstract_color_background_picture_8016-wide.jpg);
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 #header {
 	height: 50px;
